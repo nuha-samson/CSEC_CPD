@@ -5,4 +5,4 @@ if m <= odd:
     print(2*m - 1)
 else:
     m -= odd
-    print(2*m)
+    print(2*m) 
